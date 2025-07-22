@@ -1,0 +1,4 @@
+2025-Jul-22 16:44:22 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2025-Jul-22 16:44:22 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2025-Jul-22 16:44:22 pm [main] INFO  StepDef.Sign_In_Pom - Browser invoked.
+2025-Jul-22 16:44:23 pm [main] INFO  Base.WebDriverFactory - Driver closed

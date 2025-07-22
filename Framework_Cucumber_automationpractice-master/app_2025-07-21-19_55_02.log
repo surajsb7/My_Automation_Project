@@ -1,0 +1,9 @@
+2025-Jul-21 19:55:03 pm [main] INFO  Base.WebDriverFactory - Chrome Browser invoked
+2025-Jul-21 19:55:03 pm [main] INFO  Base.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2025-Jul-21 19:55:03 pm [main] INFO  StepDef.Sign_In_Pom - Browser invoked.
+2025-Jul-21 19:55:05 pm [main] INFO  StepDef.Sign_In_Pom - Page Url validation successfull. Expected and actual text matched. Text: https://qa.onprem.icedq.com/
+2025-Jul-21 19:55:05 pm [main] INFO  StepDef.Sign_In_Pom - <User is navigates to the application url>
+2025-Jul-21 19:55:05 pm [main] INFO  StepDef.Sign_In_Pom - user added valid details
+2025-Jul-21 19:55:05 pm [main] INFO  StepDef.Sign_In - User entered valid login details
+2025-Jul-21 19:55:05 pm [main] INFO  StepDef.Sign_In_Pom - user log in successfully
+2025-Jul-21 19:55:06 pm [main] INFO  Base.WebDriverFactory - Driver closed
